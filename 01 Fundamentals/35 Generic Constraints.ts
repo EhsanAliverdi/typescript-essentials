@@ -1,0 +1,4 @@
+/*
+In this section we will learn how to limit generic types using constraints.
+We will make generic code safer by requiring certain properties or behaviors.
+*/

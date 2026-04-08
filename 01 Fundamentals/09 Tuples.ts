@@ -1,0 +1,5 @@
+/*
+In this section we will learn about tuples in TypeScript.
+We will use tuples when order matters and when each position
+in the array should have a specific type.
+*/

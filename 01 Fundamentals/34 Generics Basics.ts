@@ -1,0 +1,5 @@
+/*
+In this section we will learn about generics in TypeScript.
+We will understand how generics let us write reusable code
+that still keeps strong type safety.
+*/

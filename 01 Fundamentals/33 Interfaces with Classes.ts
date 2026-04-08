@@ -1,0 +1,5 @@
+/*
+In this section we will learn how classes can implement interfaces.
+We will use interfaces as contracts
+to ensure classes follow a required structure.
+*/

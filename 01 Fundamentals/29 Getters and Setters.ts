@@ -1,0 +1,5 @@
+/*
+In this section we will learn how getters and setters work in TypeScript classes.
+We will use them to control how values are read and updated
+while keeping class design clean.
+*/
