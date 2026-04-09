@@ -1,5 +1,0 @@
-/*
-In this section we will learn how to combine multiple types into one.
-We will use intersection types when a value must satisfy
-more than one type at the same time.
-*/

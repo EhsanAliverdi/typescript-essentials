@@ -1,5 +1,0 @@
-/*
-In this section we will learn about enums in TypeScript.
-We will see how enums help represent a fixed set of named values
-and when they can be useful in real applications.
-*/

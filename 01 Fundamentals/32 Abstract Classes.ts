@@ -1,5 +1,0 @@
-/*
-In this section we will learn about abstract classes.
-We will understand how they define a base structure
-that other classes must complete.
-*/

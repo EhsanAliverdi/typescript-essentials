@@ -1,5 +1,0 @@
-/*
-In this section we will learn about static properties and static methods.
-We will understand how they belong to the class itself
-instead of individual objects created from that class.
-*/

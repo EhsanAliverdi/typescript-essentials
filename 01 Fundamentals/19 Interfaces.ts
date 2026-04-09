@@ -1,5 +1,0 @@
-/*
-In this section we will learn how interfaces describe object structures.
-We will use interfaces to define contracts for objects
-and understand why they are very common in TypeScript projects.
-*/

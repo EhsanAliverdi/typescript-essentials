@@ -1,5 +1,20 @@
-/*
-In this section we will learn how to write comments in TypeScript.
-We will cover single-line comments, multi-line comments,
-and JSDoc comments used to document functions and types.
+﻿/*
+In this section we will learn how to write comments.
+
+We will learn:
+- single-line comments
+- multi-line comments
+- why comments are important
 */
+
+// Single-line comment
+let value = 10;
+
+// Multi-line comment
+/*
+This is a block comment
+used for longer explanations
+*/
+
+// Best practice:
+// - explain WHY, not WHAT

@@ -1,5 +1,0 @@
-/*
-In this section we will learn how to create reusable custom types with type aliases.
-We will use type to simplify complex type definitions
-and make our code easier to read and maintain.
-*/

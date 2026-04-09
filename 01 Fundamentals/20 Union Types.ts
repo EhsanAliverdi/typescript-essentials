@@ -1,5 +1,0 @@
-/*
-In this section we will learn how a value can have more than one possible type.
-We will use union types to model flexible values
-and understand how TypeScript forces us to handle each possible case.
-*/

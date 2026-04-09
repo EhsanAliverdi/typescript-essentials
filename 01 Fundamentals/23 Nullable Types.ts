@@ -1,4 +1,0 @@
-/*
-In this section we will learn how to work with null and undefined in TypeScript.
-We will understand strict null checking and how to safely handle missing values.
-*/
