@@ -1,8 +1,27 @@
 /*
-In this section we learn template literal types.
+In this section we will learn template literal types.
 
 We will learn:
-- creating string-based types
+- building string-based types
 - combining string unions
-- real-world use cases like API keys and routes
+
+What we are doing:
+We are generating dynamic string types.
+*/
+
+type Event = "click" | "hover";
+
+// Create new type
+type EventHandler = `on${Capitalize<Event>}`;
+
+// Result:
+// "onClick" | "onHover"
+
+const handler: EventHandler = "onClick";
+
+/*
+Used in:
+- APIs
+- event systems
+- naming conventions
 */

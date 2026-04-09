@@ -11,6 +11,6 @@ We will learn:
 // and the .js extension would be necessary for the runtime to find the correct file.
 // In this example, we are importing the add function from math.ts and using it to add two numbers.
 
-import { add } from "./math.js";
+//import { add } from "./math.js";
 
-console.log(add(2, 3)); // 5    
+//console.log(add(2, 3)); // 5    
